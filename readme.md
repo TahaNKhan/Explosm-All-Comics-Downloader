@@ -9,6 +9,7 @@ I decided to create one to download all explosm C&H comics. This one works perfe
 ## Usage:
 
 1. Make sure you have python 3.5 installed.
-2. Start the 'C&H-All-Comic-Downloader.py' and it'll start downloading the files in /explosm directory.
+2. Use pip to install requests and bs4.
+3. Start the 'C&H-All-Comic-Downloader.py' and it'll start downloading the files in /explosm directory.
 
 
