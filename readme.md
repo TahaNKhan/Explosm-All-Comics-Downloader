@@ -1,4 +1,4 @@
-#  All Cyanide and Happines Comics Downloader
+#  All Cyanide and Happiness Comics Downloader
 
 
 ## Purpose:
